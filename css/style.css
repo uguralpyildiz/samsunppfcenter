@@ -1175,7 +1175,7 @@ progress {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
-    width: 25%; }
+    width: 20%; }
   .col-lg-4 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 auto;
@@ -9346,7 +9346,7 @@ textarea {
   
   position: sticky;
   background: #000000;
-  box-shadow: 0 0 15px #00000020;
+  box-shadow: 0 0 15px #00000020 ;
   backdrop-filter: blur(15px);
   top: 0;
   z-index: 9;
